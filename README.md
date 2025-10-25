@@ -34,6 +34,14 @@ A simple windows utility to hide your mouse cursor on demand
   
   - These are easily configurable in the config file
 
+- Custom Icons, Custom Tooltips, and Custom Shortcuts
+  
+  - Ultimate customizability
+
+- Icon Inversion
+  
+  - Invert the Icon for dark mode!
+
 - Extremely Lightweight
   
   - Only 244 lines of code!*
