@@ -1,4 +1,4 @@
-<img title="" src="file:///C:/Users/itslu/Desktop/Hub/Code/Python/Apps/CurHide/cursor-hide/source/icon1.png" alt="" width="120" data-align="inline">
+<img title="" src="source/icon1.png" alt="" width="122" data-align="inline">
 
 # CurHide
 
