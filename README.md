@@ -36,7 +36,7 @@ A simple windows utility to hide your mouse cursor on demand
 
 - Custom Icons, Custom Tooltips, and Custom Shortcuts
   
-  - Ultimate customizability
+  - Ultimate customizability!
 
 - Icon Inversion
   
