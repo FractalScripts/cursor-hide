@@ -1,4 +1,4 @@
-<img title="" src="source/icon1.png" alt="" width="122" data-align="inline">
+<img title="" src="source/icon1w.png" alt="" width="122" data-align="inline">
 
 # CurHide
 
