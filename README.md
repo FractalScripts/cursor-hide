@@ -66,7 +66,7 @@ This app is **portable,** so you do not need to mess around with installers and 
 
 4. Run **CurHide**
    
-   - Windows SmarScreen might pop up. This is normal, as this is *unsigned software*, but it is **completely safe** as long as you got it from the [official repository](https://github.com/FractalScripts/cursor-hide)
+   - Windows SmartScreen might pop up. This is normal, as this is *unsigned software*, but it is **completely safe** as long as you got it from the [official repository](https://github.com/FractalScripts/cursor-hide)
    
    - To bypass it, click <u>More info</u> and **Run anyway**
 
